@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{C1B9AB84-F56A-42DF-B13C-51E2EC392DAA}") = "spawn-car.Client", "Client\spawn-car.Client.csproj", "{AC509855-92AF-4B5C-B1E0-84B31CC585B5}"
+EndProject
+Project("{C1B9AB84-F56A-42DF-B13C-51E2EC392DAA}") = "spawn-car.Server", "Server\spawn-car.Server.csproj", "{4D21A449-800D-49B4-B9AD-E6793C803D07}"
+EndProject
+Global
+  GlobalSection(SolutionConfigurationPlatforms) = preSolution
+    Debug|Any CPU = Debug|Any CPU
+    Release|Any CPU = Release|Any CPU
+  EndGlobalSection
+  GlobalSection(SolutionProperties) = preSolution
+    HideSolutionNode = FALSE
+  EndGlobalSection
+  GlobalSection(ProjectConfigurationPlatforms) = postSolution
+    {AC509855-92AF-4B5C-B1E0-84B31CC585B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+    {AC509855-92AF-4B5C-B1E0-84B31CC585B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+    {AC509855-92AF-4B5C-B1E0-84B31CC585B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+    {AC509855-92AF-4B5C-B1E0-84B31CC585B5}.Release|Any CPU.Build.0 = Release|Any CPU
+    {4D21A449-800D-49B4-B9AD-E6793C803D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+    {4D21A449-800D-49B4-B9AD-E6793C803D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+    {4D21A449-800D-49B4-B9AD-E6793C803D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+    {4D21A449-800D-49B4-B9AD-E6793C803D07}.Release|Any CPU.Build.0 = Release|Any CPU
+  EndGlobalSection
+EndGlobal

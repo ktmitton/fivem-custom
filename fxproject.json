@@ -1,0 +1,25 @@
+{
+  "assets": {
+    "spawn-car": {
+      "enabled": true,
+      "restartOnChange": true
+    }
+  },
+  "serverUpdateChannel": "recommended",
+  "systemResources": [
+    "basic-gamemode",
+    "map-skater",
+    "chat",
+    "playernames",
+    "mapmanager",
+    "spawnmanager",
+    "sessionmanager",
+    "baseevents",
+    "hardcap",
+    "webpack",
+    "yarn"
+  ],
+  "name": "wss",
+  "createdAt": "2022-05-25T21:18:48.007Z",
+  "variables": {}
+}
